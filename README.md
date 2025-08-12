@@ -14,7 +14,7 @@ Overview
 - A bonus practice notebook is also provided and solved.
 
 Repository link
-- 
+- https://github.com/RogelioRichmanAstronaut/Large-scale-data-processing-course
 
 Structure
 - Root
